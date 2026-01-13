@@ -1,5 +1,5 @@
 # 💫 About Me:
-📈 CEO & Co-founder of Virtual scale<br>🧠 AI/ML enthusiast<br>🧑‍💻 Full stack Developer<br>📝 Ask me how to create a virtual employee<br>
+<br>🧠 AI/ML enthusiast<br>🧑‍💻 Full stack Developer<br>📝 Ask me how to create a virtual employee<br>
 
 
 ## 🌐 Socials:
